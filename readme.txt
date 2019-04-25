@@ -5,5 +5,4 @@ Git is free software.
 33333333.
 aaaaaaaa.
 测试分支组合.
-i1121212
-23232323
+解决合并冲突完成。
